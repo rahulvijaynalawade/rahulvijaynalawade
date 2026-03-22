@@ -50,10 +50,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulvijaynalawade&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect with Me
 - LinkedIn: https://linkedin.com/in/rahulnalawade  
